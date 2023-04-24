@@ -60,6 +60,6 @@ class User extends Authenticatable
     ];
     public function folders()
     {
-        return $this->hasMany('App\models\Folder');
+        return $this->hasMany('App\Models\Folder');
     }
 }

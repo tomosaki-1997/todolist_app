@@ -5,8 +5,8 @@
 
 ## 使い方
 ■一般ユーザ
-* テストアカウント：test@gmail.com
-* テストパスワード：test0001
+* テストアカウント：test@email.com
+* テストパスワード：00000000
 
 ## 環境
 Laravel/Laradock/docker/
